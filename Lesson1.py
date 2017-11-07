@@ -1,0 +1,8 @@
+print('Hello World!')
+print('1+1=2')
+print('1-1=0')
+print('1x1=1')
+print('1/1=1')
+print('1^1=1')
+print('3x4+2=14')
+print('There are 604,800 seconds in a week')
